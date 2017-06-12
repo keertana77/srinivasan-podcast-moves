@@ -6,7 +6,7 @@ The Vegetarian Zen Website can be found [here](http://www.vegetarianzen.com/) an
 ---
 
 ## Overview:
-### *"Happy Body, Healthy Mind"* - Vegetarian Zen's Tagline
+> ### *"Happy Body, Healthy Mind"* - Vegetarian Zen
 
 So what exactly is the Vegetarian Zen podcast? It was formed in June of 2013, shortly after the two founders, Vicki and Larissa, watched two films about vegetarianism and decided to convert to vegetarianism. They knew that there were many questions about being a vegetarian, so this podcast is aimed to educate others about what it's like to be a vegetarian. It consists of topics related to eating healthy, exercising, animal cruelty, the environment, and others. So far, there are 208 episodes and one new episode is added to the podcast weekly. For each episode added, there is also a quote of the week, recipe of the week, and additional resources to complement the podcast.
 
@@ -32,6 +32,7 @@ Some of these podcasts were interview-based, while others weren't. Three of the 
 * [Episode 045: "Interview with Farnoosh Brock," Farnoosh Brock, the author of "The Healthy Smoothie Bible" and a few other related books, is featured. Vickie and Larissa ask Brock questions and Brock answers them extensively, such as about fresh juice bars, smoothie bars, healthy portions, good eating habits, and more.](http://www.vegetarianzen.com/blog/2014/04/27/vz-045/)
 
 * [Episode 113: Interview with Megan Cain, AKA The Creative Vegetable Gardener](http://www.vegetarianzen.com/blog/2015/08/16/vz-113/)
+
 * [Episode 28: Tim Paige Interview](http://www.vegetarianzen.com/blog/2013/12/22/vz-028-tim-paige-interview/)
 These episodes are interview-based but seem conversational and unscripted.
 
@@ -60,6 +61,13 @@ I really loved this podcast. I have been a vegetarian my whole life and I wanted
 
 
 This podcast was interesting because of the versatility and variety of its episodes. Some episodes focused on lessons learned, others were on tips and advice, and other episodes were a perfect blend - inserting tips and experiences, making it really well-rounded. I love that I got the opportunity to not only learn more facts about vegetarianism through this podcast, but also to learn of others' experiences and how they handled their journey and what they did similarly and differently! They provided some great tips - I will definitely be trying their ginger recipes, advice for cooking tofu, and juicing recipes sometime in the near future!
+
+
+```
+
+```
+
+
 ![](http://www.vegetarianzen.com/wp-content/uploads/2013/02/Vegetarian-Zen-e1366064897402.jpg)
 
 
