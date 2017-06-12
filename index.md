@@ -63,23 +63,13 @@ I really loved this podcast. I have been a vegetarian my whole life and I wanted
 This podcast was interesting because of the versatility and variety of its episodes. Some episodes focused on lessons learned, others were on tips and advice, and other episodes were a perfect blend - inserting tips and experiences, making it really well-rounded. I love that I got the opportunity to not only learn more facts about vegetarianism through this podcast, but also to learn of others' experiences and how they handled their journey and what they did similarly and differently! They provided some great tips - I will definitely be trying their ginger recipes, advice for cooking tofu, and juicing recipes sometime in the near future!
 
 
-```
-
-```
 
 
 ![](http://www.vegetarianzen.com/wp-content/uploads/2013/02/Vegetarian-Zen-e1366064897402.jpg)
 
 
 
-```
 
-```
-
-```
-
-
-```
 ---
 ### **Image Links:**
 
