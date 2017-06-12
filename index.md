@@ -29,7 +29,7 @@ Sound effects were minimal, but they were enjoyable and weren't distracting. Eac
 ## Narrative Types:
 
 Some of these podcasts were interview-based, while others weren't. Three of the episodes were the two main speakers interviewing a guest speaker. Examples include:
-* [Episode 045: "Interview with Farnoosh Brock," Farnoosh Brock, the author of "The Healthy Smoothie Bible" and a few other related books, is featured. Vickie and Larissa ask Brock questions and Brock answers them extensively, such as about fresh juice bars, smoothie bars, healthy portions, good eating habits, and more.](http://www.vegetarianzen.com/blog/2014/04/27/vz-045/)
+* [Episode 045: "Interview with Farnoosh Brock,"](http://www.vegetarianzen.com/blog/2014/04/27/vz-045/): This podcast features Farnoosh Brock, the author of "The Healthy Smoothie Bible" and a few other related books. Vickie and Larissa ask Brock questions and Brock answers them extensively, such as about fresh juice bars, smoothie bars, healthy portions, good eating habits, and more.
 
 * [Episode 113: Interview with Megan Cain, AKA The Creative Vegetable Gardener](http://www.vegetarianzen.com/blog/2015/08/16/vz-113/)
 
@@ -49,9 +49,11 @@ The rest of the episodes, which are not based off interviews, are more conversat
 * [Episode 002: A Life of Spice](http://www.vegetarianzen.com/blog/2013/08/04/vz-008-all-about-tofu/): This episode focused on four beneficial spices. The speakers discuss juices and putting spices in juices to make it better. They also name several books that have recipes for juices and the basics of juicing. The speakers discussed ginger tea, ginger bread, candied ginger, and they talked about the benefits of ginger for the immune system, and also how good it tastes. This is one great example of how they were able to blend knowledge and their own experience - they gave their experiences with ginger and its different uses and what they had tried cooking, then went on to explain why ginger is so good for you.
 
 * [Episode 012: Tips to Avoid Being a Junk Food Vegetarian](http://www.vegetarianzen.com/blog/2013/09/01/vz-012-junk-food-vegetarian/)
-![](http://www.vegetarianzen.com/wp-content/uploads/2016/08/I-get-my-VEG-on-final-design.png)
 
 * [Episode 008: All About Tofu](http://www.vegetarianzen.com/blog/2013/08/04/vz-008-all-about-tofu/)
+
+![](http://www.vegetarianzen.com/wp-content/uploads/2016/08/I-get-my-VEG-on-final-design.png)
+
 
 ---
 
